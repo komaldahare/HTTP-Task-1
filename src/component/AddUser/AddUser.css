@@ -1,0 +1,37 @@
+.form-group{
+    border-top: 5px solid gray;
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+
+.form-control{
+    
+   width:50%;
+    margin-left: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.form-btt{
+    width: 18%;
+    height: 35px;
+   margin-left: 35%;
+   background-color: red;
+   border: none;
+   border-radius: 10px;
+
+}
+
+.eye{
+    width: 9%;
+    margin-left: 90%;
+    margin-top: 1%;
+    background-color: rgb(110, 105, 105);
+    border: none;
+    border-radius: 5px;
+}
